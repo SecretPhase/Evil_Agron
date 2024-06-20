@@ -19,7 +19,7 @@
 # תוכלו למצוא מדריכים בהאקרים בישראל בטלגרם  
 
 תעברו לכאן למדריך המלא : [
-https://github.com/MOSTWANTEDALIVE/Evil_Argon/wiki/%D7%9E%D7%93%D7%A8%D7%99%D7%9A ]
+https://github.com/SecretPhase/Evil_Agron/wiki/%D7%9E%D7%93%D7%A8%D7%99%D7%9A ]
 
 
 * "שלב 1 : הורדת "הנתונים בעזרת הפקודה + הקוד, או באופן ידני .
