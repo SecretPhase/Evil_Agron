@@ -66,5 +66,4 @@ python argon.py
 
 
 [
-![capture_240522_120524](https://github.com/MOSTWANTEDALIVE/Evil_Agron/assets/109408836/479e2469-cc97-484c-b1d6-b043f18d01ed)
-](https://t.me/IsraeliHackers)
+![6](https://github.com/SecretPhase/Evil_Agron/assets/173352341/73b2f23a-7b48-4d36-82eb-afa2f3eb9e65)](https://t.me/IsraeliHackers)
